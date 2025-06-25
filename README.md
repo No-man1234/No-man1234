@@ -26,7 +26,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
 const abdullah = {
@@ -115,49 +115,70 @@ const abdullah = {
 
 <div align="center">
 
-### 🤖 Smart Garbage Collector
-*An IoT masterpiece that thinks and acts*
-
-![ESP32](https://img.shields.io/badge/ESP32-1a1a2e?style=for-the-badge&logo=espressif&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-03DAC5?style=for-the-badge&logo=opencv&logoColor=black)
-![IoT](https://img.shields.io/badge/IoT-BB86FC?style=for-the-badge&logo=internetofthings&logoColor=black)
-
-**🌟 Features:**
-- Real-time image detection
-- Smart waste classification  
-- Automated collection system
-
-[![Explore Magic](https://img.shields.io/badge/✨%20Explore%20Magic-7209b7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/No-man1234/Automatic-Garbage-Collector-with-Live-Image-Detection-using-ESP32)
-
----
-
-### 🎮 Snake Game Reimagined
-*Classic nostalgia meets modern elegance*
-
-![Java](https://img.shields.io/badge/Java-FFB74D?style=for-the-badge&logo=openjdk&logoColor=black)
-![JavaFX](https://img.shields.io/badge/JavaFX-533483?style=for-the-badge&logo=java&logoColor=white)
-![Game Dev](https://img.shields.io/badge/Game%20Dev-CF6679?style=for-the-badge&logo=unity&logoColor=white)
-
-**🌟 Features:**
-- Smooth animations
-- Beautiful UI design
-- Enhanced gameplay mechanics
-
-[![Play & Explore](https://img.shields.io/badge/✨%20Play%20&%20Explore-7209b7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/No-man1234/SnakeGame)
-
----
-
-### 🛍️ BuyBuddies E-commerce Platform
-*Where shopping meets seamless experience*
-
-![Java](https://img.shields.io/badge/Java-FFB74D?style=for-the-badge&logo=openjdk&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-6200EA?style=for-the-badge&logo=mysql&logoColor=white)
-![E-commerce](https://img.shields.io/badge/E--commerce-03DAC5?style=for-the-badge&logo=shopify&logoColor=black)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-BB86FC?style=for-the-badge&logo=stackoverflow&logoColor=black)
-
-**🌟 Features:** Advanced database integration • User-friendly interface • Secure transaction handling • Inventory management
-
-[![Discover Commerce](https://img.shields.io/badge/✨%20Discover%20Commerce-7209b7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/No-man1234/BuyBuddies)
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Tech</th>
+    <th>Features</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><b>🤖 Smart Garbage Collector</b><br/><i>IoT masterpiece that thinks and acts</i></td>
+    <td>
+      <img src="https://img.shields.io/badge/ESP32-1a1a2e?style=for-the-badge&logo=espressif&logoColor=white" height="22"/>
+      <img src="https://img.shields.io/badge/Computer%20Vision-03DAC5?style=for-the-badge&logo=opencv&logoColor=black" height="22"/>
+      <img src="https://img.shields.io/badge/IoT-BB86FC?style=for-the-badge&logo=internetofthings&logoColor=black" height="22"/>
+    </td>
+    <td>
+      Real-time image detection<br/>
+      Smart waste classification<br/>
+      Automated collection system
+    </td>
+    <td>
+      <a href="https://github.com/No-man1234/Automatic-Garbage-Collector-with-Live-Image-Detection-using-ESP32">
+        <img src="https://img.shields.io/badge/✨%20Explore%20Magic-7209b7?style=for-the-badge&logo=github&logoColor=white" height="22"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🎮 Snake Game Reimagined</b><br/><i>Classic nostalgia meets modern elegance</i></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-FFB74D?style=for-the-badge&logo=openjdk&logoColor=black" height="22"/>
+      <img src="https://img.shields.io/badge/JavaFX-533483?style=for-the-badge&logo=java&logoColor=white" height="22"/>
+      <img src="https://img.shields.io/badge/Game%20Dev-CF6679?style=for-the-badge&logo=unity&logoColor=white" height="22"/>
+    </td>
+    <td>
+      Smooth animations<br/>
+      Beautiful UI design<br/>
+      Enhanced gameplay mechanics
+    </td>
+    <td>
+      <a href="https://github.com/No-man1234/SnakeGame">
+        <img src="https://img.shields.io/badge/✨%20Play%20&%20Explore-7209b7?style=for-the-badge&logo=github&logoColor=white" height="22"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛍️ BuyBuddies E-commerce Platform</b><br/><i>Where shopping meets seamless experience</i></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-FFB74D?style=for-the-badge&logo=openjdk&logoColor=black" height="22"/>
+      <img src="https://img.shields.io/badge/MySQL-6200EA?style=for-the-badge&logo=mysql&logoColor=white" height="22"/>
+      <img src="https://img.shields.io/badge/E--commerce-03DAC5?style=for-the-badge&logo=shopify&logoColor=black" height="22"/>
+      <img src="https://img.shields.io/badge/Full%20Stack-BB86FC?style=for-the-badge&logo=stackoverflow&logoColor=black" height="22"/>
+    </td>
+    <td>
+      Advanced database integration<br/>
+      User-friendly interface<br/>
+      Secure transaction handling<br/>
+      Inventory management
+    </td>
+    <td>
+      <a href="https://github.com/No-man1234/BuyBuddies">
+        <img src="https://img.shields.io/badge/✨%20Discover%20Commerce-7209b7?style=for-the-badge&logo=github&logoColor=white" height="22"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
