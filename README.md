@@ -133,7 +133,7 @@ const abdullah = {
     </td>
     <td>
       <a href="https://github.com/No-man1234/Automatic-Garbage-Collector-with-Live-Image-Detection-using-ESP32">
-        <img src="https://img.shields.io/badge/📦%20View%20Project-0077b6?style=for-the-badge&logo=github&logoColor=white" height="22"/>
+        <img src="https://img.shields.io/badge/%20View%20Project-0077b6?style=for-the-badge&logo=github&logoColor=white" height="22"/>
       </a>
     </td>
   </tr>
@@ -152,7 +152,7 @@ const abdullah = {
   </td>
   <td>
     <a href="https://github.com/No-man1234/UIUonePoint">
-      <img src="https://img.shields.io/badge/📦%20View%20Project-0077b6?style=for-the-badge&logo=github&logoColor=white" height="22"/>
+      <img src="https://img.shields.io/badge/%20View%20Project-0077b6?style=for-the-badge&logo=github&logoColor=white" height="22"/>
     </a>
   </td>
 </tr>
@@ -172,7 +172,7 @@ const abdullah = {
     </td>
     <td>
       <a href="https://github.com/No-man1234/BuyBuddies">
-        <img src="https://img.shields.io/badge/📦%20View%20Project-0077b6?style=for-the-badge&logo=github&logoColor=white" height="22"/>
+        <img src="https://img.shields.io/badge/%20View%20Project-0077b6?style=for-the-badge&logo=github&logoColor=white" height="22"/>
       </a>
     </td>
   </tr>
