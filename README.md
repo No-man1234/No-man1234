@@ -127,35 +127,36 @@ const abdullah = {
       <img src="https://img.shields.io/badge/IoT-BB86FC?style=for-the-badge&logo=internetofthings&logoColor=black" height="22"/>
     </td>
     <td>
-      Real-time image detection<br/>
-      Smart waste classification<br/>
-      Automated collection system
+      • Real-time image detection<br/>
+      • Smart waste classification<br/>
+      • Automated collection system
     </td>
     <td>
       <a href="https://github.com/No-man1234/Automatic-Garbage-Collector-with-Live-Image-Detection-using-ESP32">
-        <img src="https://img.shields.io/badge/✨%20Explore%20Magic-7209b7?style=for-the-badge&logo=github&logoColor=white" height="22"/>
+        <img src="https://img.shields.io/badge/📦%20View%20Project-0077b6?style=for-the-badge&logo=github&logoColor=white" height="22"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td><b>🎮 Snake Game Reimagined</b><br/><i>Classic nostalgia meets modern elegance</i></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-FFB74D?style=for-the-badge&logo=openjdk&logoColor=black" height="22"/>
-      <img src="https://img.shields.io/badge/JavaFX-533483?style=for-the-badge&logo=java&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/Game%20Dev-CF6679?style=for-the-badge&logo=unity&logoColor=white" height="22"/>
-    </td>
-    <td>
-      Smooth animations<br/>
-      Beautiful UI design<br/>
-      Enhanced gameplay mechanics
-    </td>
-    <td>
-      <a href="https://github.com/No-man1234/SnakeGame">
-        <img src="https://img.shields.io/badge/✨%20Play%20&%20Explore-7209b7?style=for-the-badge&logo=github&logoColor=white" height="22"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
+   <td><b>🏪 UIUonePoint</b><br/><i>One step solution for canteen, store, and e-commerce within the university</i></td>
+  <td>
+    <img src="https://img.shields.io/badge/Java-FFB74D?style=for-the-badge&logo=openjdk&logoColor=black" height="22"/>
+    <img src="https://img.shields.io/badge/JavaFX-533483?style=for-the-badge&logo=java&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/Database-009688?style=for-the-badge&logo=mysql&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/CSS3-81C784?style=for-the-badge&logo=css&logoColor=white" height="22"/>
+  </td>
+  <td>
+    • Smart canteen and store integration<br/>
+    • Clean and responsive UI with JavaFX<br/>
+    • Smooth product & order management system
+  </td>
+  <td>
+    <a href="https://github.com/No-man1234/UIUonePoint">
+      <img src="https://img.shields.io/badge/📦%20View%20Project-0077b6?style=for-the-badge&logo=github&logoColor=white" height="22"/>
+    </a>
+  </td>
+</tr>
+<tr>
     <td><b>🛍️ BuyBuddies E-commerce Platform</b><br/><i>Where shopping meets seamless experience</i></td>
     <td>
       <img src="https://img.shields.io/badge/Java-FFB74D?style=for-the-badge&logo=openjdk&logoColor=black" height="22"/>
@@ -164,14 +165,14 @@ const abdullah = {
       <img src="https://img.shields.io/badge/Full%20Stack-BB86FC?style=for-the-badge&logo=stackoverflow&logoColor=black" height="22"/>
     </td>
     <td>
-      Advanced database integration<br/>
-      User-friendly interface<br/>
-      Secure transaction handling<br/>
-      Inventory management
+      • Advanced database integration<br/>
+      • User-friendly interface<br/>
+      • Secure transaction handling<br/>
+      • Inventory management
     </td>
     <td>
       <a href="https://github.com/No-man1234/BuyBuddies">
-        <img src="https://img.shields.io/badge/✨%20Discover%20Commerce-7209b7?style=for-the-badge&logo=github&logoColor=white" height="22"/>
+        <img src="https://img.shields.io/badge/📦%20View%20Project-0077b6?style=for-the-badge&logo=github&logoColor=white" height="22"/>
       </a>
     </td>
   </tr>
