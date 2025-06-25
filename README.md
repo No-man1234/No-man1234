@@ -35,18 +35,15 @@ const abdullah = {
   education: "BSc in CSE @ UIU",
   
   currentFocus: [
-    "Building aesthetic user experiences",
+    "Building tools to make life a bit easier",
     "Exploring the art of clean code",
     "Creating meaningful digital solutions"
   ],
-  
+
   lifeGoal: "To inspire & teach the next generation",
   
-  techPhilosophy: "Beauty in simplicity, power in elegance",
-  
-  whenNotCoding: ["Reading tech blogs", "Sketching ideas", "Exploring new cafes"],
-  
-  funFact: "I believe every bug is just a feature waiting to be discovered 🐛✨"
+  whenNotCoding: ["Reading detective and science fiction books",
+  "Watching movies or series", "Exploring new cafes"],
 };
 ```
 
