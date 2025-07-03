@@ -230,6 +230,6 @@ const abdullah = {
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7209b7,25:533483,50:0f3460,75:16213e,100:1a1a2e&height=200&section=footer&reversal=true&textBg=false)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7209b7,25:533483,50:0f3460,75:16213e,100:1a1a2e&height=100&section=footer&reversal=true&textBg=false)
 
 </div>
