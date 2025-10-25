@@ -69,7 +69,7 @@ Full-stack e-commerce platform with secure transactions
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/No-man1234/No-man1234/main/dist/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/No-man1234/No-man1234/main/github-contribution-grid-snake-dark.svg)
   
 </div>
 
