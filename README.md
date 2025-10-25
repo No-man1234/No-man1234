@@ -54,6 +54,10 @@ All-in-one canteen, store & e-commerce solution for university
 Full-stack e-commerce platform with secure transactions
 > `Java` `MySQL` `Full Stack`
 
+### [🧠 BrainJam](http://github.com/No-man1234/BrainJam)
+A competitive programming platform with military-style ranking system. Perfect for coding competitions, practice, and learning.
+> `HTML` `CSS` `JavaScript` `Node.js` `Express.js`
+
 <br/>
 
 ## 📊 GitHub Stats
