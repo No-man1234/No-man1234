@@ -85,7 +85,7 @@ A competitive programming platform with military-style ranking system. Perfect f
   
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.a.noman367@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyitsnoman)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://no-man1234.github.io/portfolio/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://no-man1234.github.io/new_portfolio/)
   
 </div>
 
