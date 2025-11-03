@@ -92,6 +92,9 @@ A competitive programming platform with military-style ranking system. Perfect f
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=No-man1234&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/No-man1234/No-man1234/main/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ## 🤝 Let's Connect
 
@@ -106,3 +109,4 @@ A competitive programming platform with military-style ranking system. Perfect f
 > 💭 *"Code is poetry written in logic"*
 
 ⭐ **Thanks for stopping by!** Feel free to explore my repos and connect.
+
